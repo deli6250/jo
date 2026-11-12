@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "authorized_vod",
-      "name": "授权点播源（请配置接口）",
+      "name": "授权影视点播（电影/电视剧/综艺/动漫）",
       "type": 1,
       "api": "https://example.com/api.php/provide/vod/",
       "searchable": 1,
